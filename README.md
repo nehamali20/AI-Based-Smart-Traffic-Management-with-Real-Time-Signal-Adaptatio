@@ -49,7 +49,7 @@ MIT License
 Email: nehaanilmali2002@gmail.com  
 [LinkedIn Profile](https://www.linkedin.com/in/neha-mali-17629326b)
 
-> Add screenshots in GitHub after uploading. Use the `![](image_link)` markdown format.
+ 
 
 ## 🚀 How It Works
 - Admin can add doctors and define their availability.
